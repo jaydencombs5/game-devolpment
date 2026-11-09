@@ -1,0 +1,15 @@
+{
+  "id": "world_020",
+  "name": "JAYDEN — Starter Project",
+  "author": "Teacher starter for JAYDEN",
+  "description": "Find the key and escape a pursuing threat.",
+  "iconColor": "purple",
+  "position": {
+    "x": 128,
+    "y": 192
+  },
+  "width": 32,
+  "height": 32,
+  "levelId": "world_020_level",
+  "rewardId": "key_world_020"
+}
